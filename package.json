@@ -1,0 +1,19 @@
+{
+  "name": "tebex_akaunting_exporter",
+  "version": "1.0.0",
+  "description": "A Node.js tool to automatically export all Tebex.io purchases to an Akaunting instance. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frostcloud-Development/tebex_akaunting_exporter.git"
+  },
+  "author": "Frostcloud Development",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Frostcloud-Development/tebex_akaunting_exporter/issues"
+  },
+  "homepage": "https://github.com/Frostcloud-Development/tebex_akaunting_exporter#readme"
+}
