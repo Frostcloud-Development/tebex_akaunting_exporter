@@ -1,0 +1,4 @@
+{
+	"DatabaseStorageLocation": "core/database/storage/database.sqlite",
+	"StructureLocation": "core/database/structures"
+}
