@@ -1,5 +1,7 @@
 # Custom
-/config.json
+*conf.json
+*.crt
+*.sqlite
 .vscode/
 .node-version
 
