@@ -4,6 +4,7 @@
 *.sqlite
 .vscode/
 .node-version
+config/
 
 # Logs
 logs
