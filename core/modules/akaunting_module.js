@@ -301,7 +301,7 @@ module.exports = {
 	
 		}
 
-		nodecron.schedule('*/1 * * * *', RunScheduledFunction)
+		nodecron.schedule('*/5 * * * *', RunScheduledFunction)
 
 		loggingLibrary.SendSingleLineEntry("[akaunting_module_internal]: successfully started akaunting_module.");
 
